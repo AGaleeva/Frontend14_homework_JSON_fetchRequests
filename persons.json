@@ -1,0 +1,114 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "firstName": "Alexandra",
+      "secondName": "Nuovio",
+      "gender": "female",
+      "age": 28,
+      "address": {"postalCode": 123045, "city": "Berlin", "street": "Street1", "houseNr": "25"},
+      "maritalStatus": "married",
+      "childrenQty": 1,
+      "isEmployed": true
+    },
+    {
+      "id": 2,
+      "firstName": "Alexander",
+      "secondName": "Nuovio",
+      "gender": "male",
+      "age": 35,
+      "address": {"postalCode": 123045, "city": "Berlin", "street": "Street1", "houseNr": "25"},
+      "maritalStatus": "married",
+      "childrenQty": 1,
+      "isEmployed": true
+    },
+    {
+      "id": 3,
+      "firstName": "Nora",
+      "secondName": "Backham",
+      "gender": "female",
+      "age": 45,
+      "address": {"postalCode": 171157, "city": "Baden-Baden", "street": "Street5", "houseNr": "12"},
+      "maritalStatus": "divorced",
+      "childrenQty": 2,
+      "isEmployed": true
+    },
+    {
+      "id": 4,
+      "firstName": "Boris",
+      "secondName": "Neumann",
+      "gender": "male",
+      "age": 55,
+      "address": {"postalCode": 161239, "city": "Tübingen", "street": "Street17", "houseNr": "3a"},
+      "maritalStatus": "single",
+      "childrenQty": 0,
+      "isEmployed": true
+    },
+    {
+      "id": 5,
+      "firstName": "Doris",
+      "secondName": "Neumann",
+      "gender": "female",
+      "age": 37,
+      "address": {"postalCode": 151395, "city": "Reutlingen", "street": "Street89", "houseNr": "10"},
+      "maritalStatus": "single",
+      "childrenQty": 1,
+      "isEmployed": false
+    },
+    {
+      "id": 6,
+      "firstName": "Ivan",
+      "secondName": "Koll",
+      "gender": "male",
+      "age": 42,
+      "address": {"postalCode": 112397, "city": "Hamburg", "street": "Street101", "houseNr": "69"},
+      "maritalStatus": "divorced",
+      "childrenQty": 3,
+      "isEmployed": true
+    },
+    {
+      "id": 7,
+      "firstName": "Emma",
+      "secondName": "Blatt",
+      "gender": "female",
+      "age": 65,
+      "address": {"postalCode": 121834, "city": "Berlin", "street": "Street178", "houseNr": "12"},
+      "maritalStatus": "widow",
+      "childrenQty": 0,
+      "isEmployed": false
+    },
+    {
+      "id": 8,
+      "firstName": "Emmanuel",
+      "secondName": "Levoure",
+      "gender": "male",
+      "age": 48,
+      "address": {"postalCode": 101245, "city": "Brandenburg", "street": "Street7", "houseNr": "8b"},
+      "maritalStatus": "married",
+      "childrenQty": 3,
+      "isEmployed": true
+    },
+    {
+      "id": 9,
+      "firstName": "Leone",
+      "secondName": "Levoure",
+      "gender": "female",
+      "age": 38,
+      "address": {"postalCode": 101245, "city": "Brandenburg", "street": "Street7", "houseNr": "8b"},
+      "maritalStatus": "married",
+      "childrenQty": 3,
+      "isEmployed": false
+    },
+    {
+      "id": 10,
+      "firstName": "Finn",
+      "secondName": "Bürger",
+      "gender": "male",
+      "age": 78,
+      "address": {"postalCode": 131789, "city": "Dresden", "street": "Street16", "houseNr": "28"},
+      "maritalStatus": "widower",
+      "childrenQty": 0,
+      "isEmployed": false
+    }    
+  ]
+}
